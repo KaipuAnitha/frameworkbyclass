@@ -1,0 +1,1 @@
+{"uuid":"69b246dd-1798-4b0c-a9b2-5be3b25ebd30","name":"com.CRMTestCases.LoginPageTestCase","children":["bd6ca3d1-990d-4431-ac82-adce604327fc"],"befores":[{"name":"pageSetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721064167550,"stop":1721064169059}],"afters":[],"start":1721064164376,"stop":1721064169853}
